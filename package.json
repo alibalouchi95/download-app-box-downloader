@@ -1,0 +1,16 @@
+{
+  "name": "download-app-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@functionland/fula": "^0.6.5",
+    "wrtc": "^0.4.7"
+  }
+}
